@@ -1,4 +1,6 @@
 
+import 'package:flutter/foundation.dart';
+
 String name = "Your name";
 String email = "name@domain.com";
 
@@ -12,3 +14,8 @@ vitae cursus turpis cursus eu.
 String instagram = "https://www.instagram.com";
 String linkedIn = "https://www.linkedin.com";
 String twitter = "https://www.twitter.com";
+
+final isDesktopBrowser =
+    kIsWeb && (defaultTargetPlatform == TargetPlatform.macOS ||
+        defaultTargetPlatform == TargetPlatform.windows
+    || defaultTargetPlatform == TargetPlatform.linux);

@@ -43,11 +43,14 @@ class ProjectCard extends StatelessWidget {
               indent: 20,
               endIndent: 20,
             ),
-            OutlinedButton(
-              onPressed: (){
-                launchUrl(Uri.parse(projectUrl));
-              },
-              child: const Text("View Project"),
+            Visibility(
+              visible: projectUrl != "",
+              child: OutlinedButton(
+                onPressed: (){
+                  launchUrl(Uri.parse(projectUrl));
+                },
+                child: const Text("View Project"),
+              ),
             ),
           ],
         )
