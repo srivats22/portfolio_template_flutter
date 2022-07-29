@@ -60,9 +60,6 @@ class MyApp extends StatelessWidget {
           overline: GoogleFonts.openSans(
               fontSize: 10, fontWeight: FontWeight.w400, letterSpacing: 1.5),
         ),
-        chipTheme: const ChipThemeData(
-          selectedColor: Color.fromRGBO(229, 252, 246, 1)
-        )
       ),
       initialRoute: "/",
       routes: <String, WidgetBuilder>{
