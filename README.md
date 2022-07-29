@@ -1,17 +1,11 @@
-# personal_template
+# Personal Template
 
-A template for a personal website
+A template for a personal website build on Flutter
 
-## Getting Started
+## Useful Links
+[Read the blog post](https://srivats-22.web.app/blogs/27a771d7675d4dedabc8e164476031cc)
 
-This project is a starting point for a Flutter application.
+[Getting started](https://www.notion.so/srivats22/Portfolio-Template-Flutter-afe08f91a1224fd5a0c7a7db9a67efcf)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# portfolio_template_flutter
+## Questions
+If you have any questions message me on [Instagram](https://www.instagram.com/srivats22/)
